@@ -1,0 +1,5 @@
+- insert:
+    - id: opencode-go-usage
+      name: dsh-opencode-go-usage
+      config:
+        refreshSeconds: 60
