@@ -5,6 +5,12 @@ OpenCode Go usage limits in the Harness status bar: 5-hour, weekly and monthly a
 DSH bundle (DeepSeek Harness plugin). Host side in `index.js`, optional Web UI in `client.js` / `client.bundle.js`,
 loaded through `cordis.patch.yml` (`dsh.bundle.patch` in package.json).
 
+## Screenshots
+
+![5-hour window](docs/screenshots/limits-5h.png)
+![Week](docs/screenshots/limits-week.png)
+![Month](docs/screenshots/limits-month.png)
+
 ## Install
 
 In DSH, open **Plugins** and install from a git source:
